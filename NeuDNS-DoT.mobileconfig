@@ -13,9 +13,9 @@
 				</array>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Custom DNS</string>
+			<string>Configures device to use Custom DNS 114.114.114.114</string>
 			<key>PayloadDisplayName</key>
-			<string>Custom DNS</string>
+			<string>DNS for Neusoft VPN</string>
 			<key>PayloadIdentifier</key>
 			<string>cc.custom.dnsSettings.managed</string>
 			<key>PayloadType</key>
@@ -27,9 +27,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds a custom DNS server to iOS</string>
+	<string>DNS for Neusoft VPN</string>
 	<key>PayloadDisplayName</key>
-	<string>Custom DNS</string>
+	<string>Neusoft DNS</string>
 	<key>PayloadIdentifier</key>
 	<string>cc.custom.dns</string>
 	<key>PayloadType</key>
