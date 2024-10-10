@@ -13,33 +13,29 @@
 				</array>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Custom Encrypted DNS over TLS</string>
+			<string>Configures device to use Custom DNS</string>
 			<key>PayloadDisplayName</key>
-			<string>Custom DNS for Neusoft VPN</string>
+			<string>Custom DNS</string>
 			<key>PayloadIdentifier</key>
-			<string>cc.lxd.customdns.dnsSettings.managed</string>
+			<string>cc.custom.dnsSettings.managed</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>53456719-458f-4940-8741-83414b22f5ae</string>
+			<string>12345678-1234-1234-1234-123456789abc</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ProhibitDisablement</key>
-			<false/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Custom DNS to iOS/iPadOS based systems</string>
+	<string>Adds a custom DNS server to iOS</string>
 	<key>PayloadDisplayName</key>
-	<string>Neusoft Dns</string>
+	<string>Custom DNS</string>
 	<key>PayloadIdentifier</key>
-	<string>bhx.customdns</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
+	<string>cc.custom.dns</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>a389c299-c229-4e35-9cba-75c3a7bc268b</string>
+	<string>12345678-1234-1234-1234-123456789abc</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
