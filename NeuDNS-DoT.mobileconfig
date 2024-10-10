@@ -7,8 +7,6 @@
 		<dict>
 			<key>DNSSettings</key>
 			<dict>
-				<key>DNSProtocol</key>
-				<string>TLS</string>
 				<key>ServerAddresses</key>
 				<array>
 					<string>114.114.114.114</string>
