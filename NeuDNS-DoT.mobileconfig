@@ -17,7 +17,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use Custom Encrypted DNS over TLS</string>
 			<key>PayloadDisplayName</key>
-			<string>Custom DNS for Neusoft VPN</string> <!-- 这里你可以更改为自定义描述名称 -->
+			<string>Custom DNS for Neusoft VPN</string>
 			<key>PayloadIdentifier</key>
 			<string>cc.lxd.customdns.dnsSettings.managed</string>
 			<key>PayloadType</key>
@@ -31,11 +31,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Custom DNS to iOS/iPadOS based systems</string> <!-- 这里可以更改为你需要的描述 -->
+	<string>Adds the Custom DNS to iOS/iPadOS based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>Neusoft Dns</string> <!-- 更改名称为自定义描述 -->
+	<string>Neusoft Dns</string>
 	<key>PayloadIdentifier</key>
-	<string>bhx.customdns</string> <!-- 更改为你自己的标识符 -->
+	<string>bhx.customdns</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
