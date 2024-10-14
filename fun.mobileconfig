@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>ServerAddresses</key>
+				<array>
+					<string>114.114.114.114</string>
+				</array>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures device to use Custom DNS 114.114.114.114 or Fun</string>
+			<key>PayloadDisplayName</key>
+			<string>DNS for Fun</string>
+      <key>allowCamera</key>
+      <false/>
+      <key>allowScreenShot</key>
+      <false/>
+			<key>PayloadIdentifier</key>
+			<string>cc.custom.dnsSettings.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>12345678-1234-1234-1234-123456789abc</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>DNS for Neusoft VPN and Fun</string>
+	<key>PayloadDisplayName</key>
+	<string>Neusoft DNS Fun</string>
+	<key>PayloadIdentifier</key>
+	<string>cc.custom.dns</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>12345678-1234-1234-1234-123456789abc</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
